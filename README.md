@@ -1,4 +1,5 @@
-# This system consists of THREE MAIN PARTS, each with its own dedicated BRANCH:(3 BRANCHES)
+#(3 BRANCHES)
+This system consists of THREE MAIN PARTS, each with its own dedicated BRANCH:(3 BRANCHES)
 
 GSM Module: This branch contains all code and information related to the GSM module integration, including hardware connections, library setup, and communication protocols.
 Eye Tracking System: This branch focuses on the eye tracking functionality, covering camera setup, eye detection algorithms, and data processing.
