@@ -1,3 +1,7 @@
+#Readme file in the folder 
+# Author : IEEE FST RAS SBC
+# Date : 01/12/2023
+
 import cv2
 import numpy as np
 import time
